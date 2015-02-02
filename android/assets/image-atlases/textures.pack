@@ -1,0 +1,33 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+splash_title
+  rotate: false
+  xy: 1, 131
+  size: 678, 122
+  orig: 678, 122
+  offset: 0, 0
+  index: -1
+mask_happy
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mask_sad
+  rotate: false
+  xy: 131, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+test_square
+  rotate: false
+  xy: 681, 169
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
