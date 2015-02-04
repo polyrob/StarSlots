@@ -17,7 +17,7 @@ public class Batch {
 	private MovieUtil mu;
 
 	private static final String LANGUAGE_ENGLISH = "en";
-	private static final String APIKEY = "7fa8a73aff547477888c3c5e03f864b1";
+	private static final String APIKEY = "##OMITTED##";
 	private static final String RAW_ACTOR_IDS = "data/actorIDs.txt";
 	private static final String DATAFILE_ACTORS = "actors.data";
 	private static final String DATAFILE_MOVIES = "movies.data";
