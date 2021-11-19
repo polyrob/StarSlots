@@ -7,4 +7,4 @@ Instead of matching on cherries and lemons and nonsense, these reels pull actors
 
 Still very much a WIP.
 
-This game uses the libgdx framework and is written in Java.
+This game uses the libgdx framework and is written in Java. Blog post about development of this guy can be found [here](https://robbomb.wordpress.com/2017/02/09/making-a-filmography-slot-machine-game/).
